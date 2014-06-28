@@ -31,9 +31,9 @@ import android.widget.Toast;
 
 @SuppressLint("ValidFragment")
 public class FragmentAsig extends Fragment{
-	
+	//Borrar comentario
 	public String mText;
-	public TextView txtnotaexfin, txttotal, txtmedia, txtsobre, txtaÃ±adir;
+	public TextView txtnotaexfin, txttotal, txtmedia, txtsobre, txañadir;
 	public ListView lv;
 	public Principal prin;
 	
